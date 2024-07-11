@@ -61,6 +61,11 @@ Our e-commerce website is a robust, scalable, and secure online shopping platfor
 4. **Web API**: Exposes RESTful endpoints for front-end interactions, ensuring a decoupled and scalable architecture.
 5. **Unit Tests**: Comprehensive unit tests to ensure code reliability and prevent regression.
 
+###Swagger Screenshots
+![image](https://github.com/elazazy424/Ecommerce-APIs-/assets/73352569/2122654f-e0e1-405d-9bdd-58e656f46589)
+![image](https://github.com/elazazy424/Ecommerce-APIs-/assets/73352569/9d2f2239-da09-4690-a340-d25599eaf35b)
+![image](https://github.com/elazazy424/Ecommerce-APIs-/assets/73352569/e2092ce5-069c-4dfd-98d0-eb46a34658cc)
+
 ### Conclusion
 
 This e-commerce website, built using the .NET framework, follows best practices in software development to deliver a robust and scalable platform. With a solid architecture, secure payment processing, efficient error management, and a clear separation of concerns through DAL and BLL, it is designed to provide a seamless and secure shopping experience for users. The integration of ASP.NET Identity for secure signup and login further enhances the platform's security and user management capabilities.
